@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Keeper-note/static/css/main.c0c5cbda.css",
-    "main.js": "/Keeper-note/static/js/main.1e48b505.js",
-    "index.html": "/Keeper-note/index.html",
-    "main.c0c5cbda.css.map": "/Keeper-note/static/css/main.c0c5cbda.css.map",
-    "main.1e48b505.js.map": "/Keeper-note/static/js/main.1e48b505.js.map"
+    "main.css": "/Expenses-follower/static/css/main.c0c5cbda.css",
+    "main.js": "/Expenses-follower/static/js/main.1e48b505.js",
+    "index.html": "/Expenses-follower/index.html",
+    "main.c0c5cbda.css.map": "/Expenses-follower/static/css/main.c0c5cbda.css.map",
+    "main.1e48b505.js.map": "/Expenses-follower/static/js/main.1e48b505.js.map"
   },
   "entrypoints": [
     "static/css/main.c0c5cbda.css",
