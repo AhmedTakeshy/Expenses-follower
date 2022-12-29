@@ -16,7 +16,7 @@ Expenses Follower is a web-based tool for tracking and managing personal expense
 Screenshots
 ![](https://github.com/AhmedTakeshy/Expenses-follower/blob/master/Screen%20Shot%202022-10-26%20at%201.21.29%20PM.png)
 
-Getting Started
+### Getting Started
 To get started with Expenses Follower, follow these steps:
 
 Clone or download the repository to your local machine
@@ -26,12 +26,13 @@ The app should now be running on http://localhost:3000
 Deployment
 To deploy the app to a production environment, run npm run build to create a production build. The build files can then be deployed to a hosting platform such as GitHub Pages or Heroku.
 
-Contributing
+### Contributing
 If you'd like to contribute to the development of Expenses Follower, please fork the repository and make your changes in a separate branch. Once you have tested and debugged your changes, you can submit a pull request for review.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-React - The JavaScript library used for building the user interface
+### Acknowledgements
+[React](https://reactjs.org/) - The JavaScript library used for building the user interface
 create-react-app - The tool used to set up the initial React project structure
+- [Styled Components](https://styled-components.com/) - For styles
